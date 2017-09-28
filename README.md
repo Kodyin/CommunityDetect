@@ -1,6 +1,8 @@
 # CommunityDetect
 
 ## You can see the visualization result by build and run the Runtest.java.
+![Example](src/example.png)
+
 
 ## Overview
 
