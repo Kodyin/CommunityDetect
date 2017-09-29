@@ -4,9 +4,3 @@
 
 ---------------------------------------------------------[ DESCRIPTION ]--
 /Test case for the community detection algorithm. Using Graphstream to realize the visualization.
-
-Background: A brief introduction to your data and one of the questions you asked (just one question), 
-and a very brief statement of the approach/algorithm you used to answer the question. (This part should be ~1 minute)
-
-A specific challenge you faced when implementing the algorithm to answer your question and how you solved it.
- (This should be the bulk of the presentation).
